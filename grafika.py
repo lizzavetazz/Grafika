@@ -54,4 +54,4 @@ r3.pack()
 aken.mainloop() #запуск окна
 
 #problema s kartinkami
-..
+
